@@ -14,6 +14,7 @@
 		F162B61A27BB531200F44BA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F162B61827BB531200F44BA6 /* LaunchScreen.storyboard */; };
 		F162B62627BB937600F44BA6 /* ViewController 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F162B62527BB937600F44BA6 /* ViewController 2.swift */; };
 		F162B62827BB94C100F44BA6 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F162B62727BB94C100F44BA6 /* secondViewController.swift */; };
+		F162B62A27BB989D00F44BA6 /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F162B62927BB989D00F44BA6 /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F162B61B27BB531200F44BA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F162B62527BB937600F44BA6 /* ViewController 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ViewController 2.swift"; path = "../../../../Library/Mobile Documents/com~apple~CloudDocs/.Trash/ViewController 2.swift"; sourceTree = "<group>"; };
 		F162B62727BB94C100F44BA6 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		F162B62927BB989D00F44BA6 /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F162B62527BB937600F44BA6 /* ViewController 2.swift */,
 				F162B60F27BB531000F44BA6 /* SceneDelegate.swift */,
 				F162B61327BB531000F44BA6 /* Main.storyboard */,
+				F162B62927BB989D00F44BA6 /* thirdViewController.swift */,
 				F162B62727BB94C100F44BA6 /* secondViewController.swift */,
 				F162B61627BB531200F44BA6 /* Assets.xcassets */,
 				F162B61827BB531200F44BA6 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				F162B62827BB94C100F44BA6 /* secondViewController.swift in Sources */,
 				F162B60E27BB531000F44BA6 /* AppDelegate.swift in Sources */,
+				F162B62A27BB989D00F44BA6 /* thirdViewController.swift in Sources */,
 				F162B62627BB937600F44BA6 /* ViewController 2.swift in Sources */,
 				F162B61027BB531000F44BA6 /* SceneDelegate.swift in Sources */,
 			);
